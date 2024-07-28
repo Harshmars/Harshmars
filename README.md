@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm a Gameplay Programmer/ Game Developer, from India,Delhi</h2>
+<h2 align="left">Hi 👋! My name is Harsh and I'm Game Developer, from India,Delhi</h2>
 
 ###
 
